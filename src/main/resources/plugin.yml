@@ -1,0 +1,5 @@
+name: Bluelogs
+version: '${project.version}'
+main: com.nuclide.bluelogs.Bluelogs
+api-version: 1.18
+description: Logs potential grief / steal actions
