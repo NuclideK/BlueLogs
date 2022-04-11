@@ -5,8 +5,10 @@ Config file;
 # LOGGING OPTIONS #
 // Send alerts to console (true/false)
 logConsole: true
+
 // Log alerts to a file (true/false)
 logFile: true
+
 // Alert to discord, Enter discord webhook url, to have it disabled set to "disabled"
 all_logs_webhook: "disabled"
 staff_logs_webhook: "disabled"
